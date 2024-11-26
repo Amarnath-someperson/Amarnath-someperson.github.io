@@ -1,0 +1,6 @@
+CNAME mt99.amarnath-someperson.github.io -> smtp.mailtrap.live
+TXT amarnath-someperson.github.io -> v=spf1 include:_spf.smtp.mailtrap.live ~all
+CNAME rwmt1._domainkey.amarnath-someperson.github.io -> rwmt1.dkim.smtp.mailtrap.live
+CNAME rwmt2._domainkey.amarnath-someperson.github.io -> rwmt2.dkim.smtp.mailtrap.live
+TXT _dmarc.amarnath-someperson.github.io -> v=DMARC1; p=none; rua=mailto:dmarc@smtp.mailtrap.live; ruf=mailto:dmarc@smtp.mailtrap.live; rf=afrf; pct=100
+CNAME mt-link.amarnath-someperson.github.io -> t.mailtrap.live
