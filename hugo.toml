@@ -84,3 +84,7 @@ enableEmoji = true
     name = "About"
     url = "about/"
     weight = 5
+  [[menu.main]]
+    name = "Dynamic stuff hosted on my server"
+    url = "http://details-worthy.gl.at.ply.gg:31372/"
+    weight = 4
