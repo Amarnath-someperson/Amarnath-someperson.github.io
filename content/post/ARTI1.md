@@ -1,6 +1,6 @@
 +++
-title = Buses, Rain and the incomprehensible beauty of being human
-subtitle = However detached we are from the human experience, does it really take an orchestra of events to connect the cord?
+title = "Buses, Rain and the incomprehensible beauty of being human"
+subtitle = "However detached we are from the human experience, does it really take an orchestra of events to connect the cord?"
 description = "New rambling from this madman!"
 date = 2025-10-16
 author = "Amarnath K"
