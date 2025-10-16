@@ -1,12 +1,12 @@
 +++
 title = "Buses, Rain and the incomprehensible beauty of being human"
 subtitle = "However detached we are from the human experience, does it really take an orchestra of events to connect the cord?"
-description = "New rambling from this madman!"
+description = "However detached we are from the human experience, does it really take an orchestra of events to connect the cord?"
 date = 2025-10-16
 author = "Amarnath K"
 +++
 
-A wave. One of the simplest expressions of “hey there! I notice you amongst all these unknowns!” is all it takes to make someone’s day. Now I know I’ve pretty much answered the question in the subtitle with the first statement, but give me a chance will you, fellow reader? Thank you, and sorry for those who wish to continue reading these ramblings of a madman.
+A wave. One of the simplest expressions of “hey there! I notice you amongst all these masked faces” is all it takes to make someone’s day. Now I know I’ve pretty much answered the question in the subtitle with the first statement, but give me a chance will you, fellow reader? Thank you, and sorry for those who wish to continue reading these ramblings of a madman.
 
 Let me set the scene for you: It’s a gloomy day, and so is yours truly. He has just awoken from his quite-not-well-deserved slumber. Checks his phone, because of course he does: its 11am. Classes started hours before, and this socially-anxious yet attention-seeking, reeking of cup noodles from the day before pile of meat realises that he has no one to call when he just needs some uplifting. Sure he has quite a lot of friends at his new college, but quite of a lot of anxiety does he have too, he is afraid to disturb the peace of silence. He craves social interaction yet the moment there are more than two people in his vicinity he is overwhelmed by conversation. You see, I am the weirdest kind of ambivert; filling up my social battery is an upstream battle against the saltiest of rivers, I am thirsty yet I am drowning.
 
