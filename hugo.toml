@@ -5,7 +5,7 @@ theme = 'hermit-v2'
 [languages]
 
     [languages.en.params]
-        homeSubtitle = 'if the code does not work, give up'
+        homeSubtitle = 'Invenium viam aut faciam'
     weight =1 
 
 pygmentsCodefences  = true
