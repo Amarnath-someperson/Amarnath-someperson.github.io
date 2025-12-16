@@ -43,6 +43,4 @@ not all paths are best covered with wheels.
 
 
 
-
-
-A dedication.	
+>>> *A dedication.*	
