@@ -6,8 +6,6 @@ date = 2025-12-16
 author = "Amarnath K"
 +++
 
-I never did learn how to ride the bicycle
-
 On this broken down path I stand; the tarmac eroding at my feet
 
 The fog blocks my view of the path, behind me lies the jungle I trudged
